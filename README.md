@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vishnu Kumar
 
-### 💻 Developer | AI/GenAI Enthusiast | Full Stack Developer
+### 💻 Developer | AI Engineer | Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Developer;AI+%26+GenAI+Enthusiast;Full+Stack+Developer;Python+Developer;React+%26+TypeScript+Developer;Building+AI+Powered+Applications" />
 
