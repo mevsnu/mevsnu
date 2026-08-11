@@ -11,10 +11,13 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mevsnu\&color=blueviolet\&style=for-the-badge)
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![GenAI](https://img.shields.io/badge/GENAI-FF6F00?style=for-the-badge\&logo=google-gemini\&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/AGENTIC_AI-7B61FF?style=for-the-badge\&logo=ai\&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/AI%2FGENAI-FF6F00?style=for-the-badge\&logo=google-gemini\&logoColor=white)
+
+
 
 </div>
 
