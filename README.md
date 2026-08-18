@@ -15,7 +15,7 @@ Metadata: {
     <img src="https://github.com/mevsnu/mevsnu/blob/main/profile-grid.svg" alt="Vishnu's Profile Grid" width="100%" />
   </a>
 
-  <h1>Rajeev Nayan</h1>
+  <h1>Vishnu Kumar</h1>
   <h3>Java Backend Engineer | Spring Boot | Microservices | AI Engineering</h3>
 
   <p align="center">
