@@ -1,401 +1,288 @@
+<!-- SEO Keywords for Discoverability & Metadata -->
+<!--
+Metadata: {
+  "name": "Rajeev Nayan",
+  "role": "Java Backend Engineer",
+  "specialization": ["Spring Boot", "Microservices", "System Design", "AI Integration"],
+  "profiles": ["GitHub", "LinkedIn", "LeetCode", "GeeksforGeeks", "Codolio", "HackerRank"],
+  "location": "India"
+}
+-->
+
 <div align="center">
+  <!-- Header Grid Asset -->
+  <a href="https://www.rajeevnayan.in/">
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/profile-grid.svg" alt="Rajeev's Profile Grid" width="100%" />
+  </a>
 
-# 👋 Hi, I'm Vishnu Kumar
+  <h1>Rajeev Nayan</h1>
+  <h3>Java Backend Engineer | Spring Boot | Microservices | AI Engineering</h3>
 
-### 💻 Developer | AI Engineer | Full Stack Developer
+  <p align="center">
+    <a href="#about">About</a> •
+    <a href="#pillars">What I Build</a> •
+    <a href="#tech-stack">Tech Stack</a> •
+    <a href="#featured-projects">Featured Projects</a> •
+    <a href="#ai-engineering">AI Engineering</a> •
+    <a href="#system-design">System Design</a> •
+    <a href="#coding-journey">Coding Journey</a> •
+    <a href="#github-stats">GitHub Stats</a> •
+    <a href="#connect">Connect</a>
+  </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Software+Developer;AI+%26+GenAI+Enthusiast;Full+Stack+Developer;Python+Developer;React+%26+TypeScript+Developer;Building+AI+Powered+Applications" />
+  <!-- Visitor Views & Followers (Unified style matching the Dracula theme) -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=imrajeevnayan&label=Profile+views&color=bd93f9&style=for-the-badge" alt="Profile Views" />
+    <a href="https://github.com/imrajeevnayan?tab=followers">
+      <img src="https://img.shields.io/github/followers/imrajeevnayan?label=Followers&style=for-the-badge&color=ff79c6" alt="Followers" />
+    </a>
+  </p>
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=mevsnu\&color=blueviolet\&style=for-the-badge)
-
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![GenAI](https://img.shields.io/badge/GENAI-FF6F00?style=for-the-badge\&logo=google-gemini\&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/AGENTIC_AI-7B61FF?style=for-the-badge\&logo=ai\&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-
-
+  <!-- Social Badges Row (Consistent style and validated logos) -->
+  <p align="center">
+    <a href="https://linkedin.com/in/imrajeevnayan" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:imrajeevnayan@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://instagram.com/imrajeevnayan" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://x.com/imrajeevnayan" target="_blank">
+      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    </a>
+    <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    </a>
+    <a href="https://www.hackerrank.com/profile/imrajeevnayan" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
+      <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+    </a>
+    <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
+      <img src="https://img.shields.io/badge/Codolio-20232A?style=for-the-badge&logoColor=white" alt="Codolio"/>
+    </a>
+    <a href="https://www.rajeevnayan.in/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<a name="about"></a>
+### 👨‍💻 About Me
 
-```javascript
-const vishnu = {
-  name: "Vishnu Kumar",
-  username: "mevsnu",
-  role: "Developer",
-  education: "BTech Student",
-  location: "Gaya, Bihar, India",
+I am a **Java Backend Engineer** focusing on building scalable, reliable, and secure server-side systems. I design robust RESTful APIs, orchestrate Microservices, and optimize databases. Currently, I am also exploring **AI Integration** in backend architectures—building Retrieval-Augmented Generation (RAG) systems and leveraging LLMs using Spring AI.
 
-  interests: [
-    "Artificial Intelligence",
-    "Generative AI",
-    "Full Stack Development",
-    "Web Development",
-    "Mobile Development",
-    "Problem Solving"
-  ],
+- 🔭 **Current Focus**: Architecting fault-tolerant microservices and asynchronous task pipelines.
+- 🌱 **Learning & Exploration**: Caching topologies (Redis clustering), advanced system security, and Spring AI agents.
+- 💬 **Ask me about**: Transaction boundaries, JPA query optimization, thread safety, and API design.
 
-  currentlyExploring: [
-    "AI Agents",
-    "LangChain",
-    "LangGraph",
-    "LLM Applications",
-    "React Native",
-    "TypeScript"
-  ],
+---
 
-  technologies: {
-    languages: [
-      "Python",
-      "JavaScript",
-      "TypeScript",
-      "Java",
-      "C",
-      "C++",
-      "HTML",
-      "CSS"
-    ],
+<a name="pillars"></a>
+### 🧭 What I Build
 
-    frontend: [
-      "React",
-      "JavaScript",
-      "TypeScript",
-      "HTML",
-      "CSS",
-      "Sass"
-    ],
+I focus my development practices around three distinct pillars:
 
-    backend: [
-      "Python",
-      "Node.js"
-    ],
+#### ☕ Backend Engineering
+Building robust backend architectures with Java and Spring Boot. I specialize in designing transactional APIs, securing endpoints via Spring Security (JWT & OAuth2), and implementing data persistence layers using Spring Data JPA & Hibernate.
 
-    ai: [
-      "LangChain",
-      "LangGraph",
-      "Generative AI",
-      "LLM Applications",
-      "Groq"
-    ],
+#### 🏗️ System Design
+Constructing systems that scale beyond a single instance. I design RESTful systems, handle asynchronous processing via messaging layers (Kafka, RabbitMQ), implement distributed caching strategies with Redis, and manage connection pools.
 
-    mobile: [
-      "React Native",
-      "Expo"
-    ],
+#### 🤖 AI Engineering
+Integrating LLMs and semantic indexing directly into backend systems. I build Retrieval-Augmented Generation (RAG) structures using **Spring AI**, handling vector database integrations, similarity searches, and custom prompt formatting natively in Java.
 
-    tools: [
-      "Git",
-      "GitHub",
-      "Docker",
-      "Streamlit"
-    ]
-  },
+---
 
-  openTo: [
-    "AI/GenAI Projects",
-    "Full Stack Projects",
-    "Open Source",
-    "Collaborations",
-    "Learning Opportunities"
-  ]
-};
+<a name="tech-stack"></a>
+### 🛠️ Tech Stack
+
+<div align="center">
+  <!-- Unified icon cloud utilizing skillicons.dev -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,mongodb,redis,docker,aws,git,vscode,react,js,ts,html,css&theme=dark" alt="Tech Stack Icons" />
+  </a>
+</div>
+
+<br/>
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Java (Core, Collections, Streams, Multithreading), SQL, JavaScript, TypeScript |
+| **Backend Frameworks** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate |
+| **Databases & Cache** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Messaging** | Apache Kafka, RabbitMQ |
+| **Build & Tooling** | Maven, Gradle, JUnit, Mockito, Postman, Jenkins |
+| **AI (Exploring)** | Spring AI, Vector DBs, RAG Pipelines, OpenAI API |
+| **Frontend** | React, HTML5, CSS3 |
+| **DevOps** | Docker, GitHub Actions |
+
+---
+
+<a name="featured-projects"></a>
+### 📂 Featured Projects
+
+### 🎬 [BookMyShow](https://github.com/imrajeevnayan/BookMyShow)
+A complete ticket booking system backend engineered to configure seat layouts, list showtimes, and handle high-volume ticket bookings.
+* **Tech**: Java • Spring Boot • Spring Security (JWT) • MySQL • JPA & Hibernate
+* **Engineering**: MVC Architecture • Entity Relationship Design (OneToMany/ManyToOne) • Transaction Boundaries (`@Transactional`) • Secure REST Endpoints
+* **Repository**: [View Project →](https://github.com/imrajeevnayan/BookMyShow)
+
+### 🍕 [Food-Fiesta](https://github.com/imrajeevnayan/Food-Fiesta)
+An online food ordering system backend processing menus, categories, persistent shopping carts, and order status lifecycles.
+* **Tech**: Java • Spring Boot • Hibernate • MySQL • Thymeleaf
+* **Engineering**: Form Validation • Persistent Cart State Management • Asynchronous Lifecycle Updates
+* **Repository**: [View Project →](https://github.com/imrajeevnayan/Food-Fiesta)
+
+### 🏠 [Rento](https://github.com/imrajeevnayan/Rento)
+Rental listing and application marketplace allowing secure logins for landlords and tenants.
+* **Tech**: React • JavaScript • JWT Authentication • Google OAuth 2.0 • RESTful APIs
+* **Engineering**: Front-to-Back decoupled API communications • Token-based stateless authentication sessions
+* **Repository**: [View Project →](https://github.com/imrajeevnayan/Rento)
+
+### 📝 [readmify](https://github.com/imrajeevnayan/readmify)
+An AI-powered command-line utility designed to read repository file trees and automatically generate clean markdown files.
+* **Tech**: Node.js • LLM APIs • Prompt Engineering
+* **Engineering**: Recursive directory parsing • Context window formatting for LLM queries
+* **Repository**: [View Project →](https://github.com/imrajeevnayan/readmify)
+
+---
+
+<a name="ai-engineering"></a>
+### 🤖 AI Engineering & Architecture
+
+I build semantic retrieval flows that connect enterprise databases and document sets safely to Language Models:
+
+```
+[ Raw Documents ] ──> [ Chunking / Parsing ] ──> [ Embedding Model ] ──> [ Vector Store (Pgvector/Redis) ]
+                                                                                   │
+                                                                                   ▼ (Semantic Search)
+[ User Query ] ─────────────────────────> [ Context Formatter ] ────────> [ LLM Generation ] ──> [ Output ]
 ```
 
----
-
-# 🚀 What I'm Currently Working On
-
-* 🤖 Building **AI-powered applications and AI agents**
-* 🧠 Exploring **LangChain & LangGraph**
-* ⚡ Experimenting with **LLMs and Generative AI**
-* 📱 Building applications with **React Native & Expo**
-* 🌐 Improving my **Full Stack Development** skills
-* 🐍 Building projects with **Python**
-* 🔎 Exploring **web scraping and automation**
-* 📚 Continuously improving my **DSA & problem-solving skills**
+* **Spring AI Integration**: Working with Java-native APIs to construct vector database stores, configure similarity search query parameters, and handle LLM tokens without a Python container.
+* **Semantic Retrieval**: Structuring metadata mappings inside Vector search indices to ensure accurate system context limits.
 
 ---
 
-# 🔥 Featured Projects
+<a name="system-design"></a>
+### 🏗️ System Design Patterns
 
-## 🤖 AgentAI Studio
+I build applications with structural patterns in mind to keep them maintainable as their scale requirements expand:
 
-A modular AI application suite built around modern LLM workflows.
-
-### Highlights
-
-* 💬 AI Chat Assistant
-* 🌐 Dynamic Translation
-* 📖 Story Generation & Analysis
-* 🧩 Reusable LangChain backend
-* 💻 Interactive terminal CLI
-* 🖥️ Streamlit web interface
-* ⚡ Groq + Llama powered inference
-* 🐳 Docker deployment support
-
-**Tech Stack**
-
-`Python` `LangChain` `LangGraph` `Groq` `Llama` `Streamlit` `Docker`
-
-🔗 **[View Project →](https://github.com/mevsnu/AgentAI)**
+* **Layered Architecture**: Decoupling the Presentation layer (REST Controllers), Business logic (Service interfaces), and Persistence layer (Spring Repositories).
+* **Asynchronous Offloading**: Offloading email confirmations, logging pipelines, and report generation from the HTTP request thread into messaging queues (RabbitMQ/Kafka).
+* **Distributed Caching**: Placing Read-through Redis caching strategies ahead of relational queries to optimize read-heavy endpoints.
 
 ---
 
-## 📱 Nemotron
+<a name="coding-journey"></a>
+### 🏆 Coding Journey & Dashboards
 
-A modern cross-platform application built using React Native and Expo.
+I practice algorithmic problem solving daily on LeetCode and GeeksforGeeks.
 
-### Tech Stack
+#### 🟡 LeetCode Stats Dashboard (🟡 AUTO-SYNC)
+* **Profile**: [View LeetCode Profile →](https://leetcode.com/u/imrajeevnayan/)
+* **Platform Stats**: Dynamically updated stats via API queries:
+<br/>
+<div align="center">
+  <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats/leetcode.svg" alt="LeetCode Dashboard" />
+  </a>
+</div>
 
-`React Native` `Expo` `TypeScript` `React` `AsyncStorage`
+#### 🟢 GeeksforGeeks Stats Dashboard (🟡 AUTO-SYNC)
+* **Profile**: [View GeeksforGeeks Profile →](https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity)
+* **Platform Stats**: Dynamically parsed GfG profile scores:
+<br/>
+<div align="center">
+  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats/gfg.svg" alt="GeeksforGeeks Dashboard" />
+  </a>
+</div>
 
-🔗 **[View Project →](https://github.com/mevsnu/Nemotron)**
-
----
-
-## 🩺 End-to-End Medical Chatbot
-
-A Generative AI focused project exploring conversational AI and AI-assisted medical information systems.
-
-**Tech Focus**
-
-`Python` `Generative AI` `LLMs` `AI Chatbot`
-
-🔗 **[View Project →](https://github.com/mevsnu/End-to-End-Medical-Chatbot)**
-
----
-
-## 🌐 Portfolio Website
-
-A personal portfolio project showcasing web development and frontend skills.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
-
-🔗 **[View Project →](https://github.com/mevsnu/portfolio)**
-
----
-
-## 💼 Portfolio 2.0
-
-A second portfolio implementation with a structured frontend, assets, Sass styling and JavaScript.
-
-**Tech Stack**
-
-`HTML` `CSS` `Sass` `JavaScript`
-
-🔗 **[View Project →](https://github.com/mevsnu/portfolio2)**
+#### 🔵 Codolio Stats Dashboard (🟡 AUTO-SYNC)
+* **Profile**: [View Codolio Profile →](https://codolio.com/profile/imrajeevnayan)
+* **Platform Stats**: Comprehensive developer portfolio statistics:
+<br/>
+<div align="center">
+  <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
+    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats/codolio.svg" alt="Codolio Dashboard" />
+  </a>
+</div>
 
 ---
 
-## 🛍️ Myntra Clone
+<a name="github-stats"></a>
+### 📊 GitHub Stats & Activity (🟡 AUTO-SYNC)
 
-A frontend e-commerce project inspired by the Myntra shopping experience.
+<div align="center">
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" style="padding: 5px;">
+        <a href="https://github.com/imrajeevnayan">
+          <img src="https://github-stats-extended.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=dracula&hide_border=true" alt="Rajeev's Github Stats" />
+        </a>
+      </td>
+      <td align="center" valign="top" style="padding: 5px;">
+        <a href="https://github.com/imrajeevnayan">
+          <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-**Tech Stack**
+  <br/>
 
-`HTML` `CSS` `JavaScript`
+  <!-- Streak Stats Card -->
+  <a href="https://github.com/imrajeevnayan">
+    <img src="https://streak-stats.demolab.com/?user=imrajeevnayan&theme=dracula&hide_border=true&background=282a36" alt="Streak Stats" />
+  </a>
 
-🔗 **[View Project →](https://github.com/mevsnu/myntra_clone)**
+  <br/><br/>
 
----
+  <!-- Trophies Widget -->
+  <a href="https://github.com/imrajeevnayan">
+    <img src="https://github-trophies.devomb.com/?username=imrajeevnayan&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies" />
+  </a>
 
-## 🕷️ Web Scraper
+  <br/><br/>
 
-A Python-based web scraping project for extracting information from web pages.
-
-**Tech Stack**
-
-`Python` `Web Scraping`
-
-🔗 **[View Project →](https://github.com/mevsnu/scraper)**
-
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,html,css" />
-
-</p>
-
-### 🎨 Frontend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,sass" />
-
-</p>
-
-### ⚙️ Backend & Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,nodejs,docker" />
-
-</p>
-
-### 🤖 AI / GenAI
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-</p>
-
-<p align="center">
-
-<b>LangChain • LangGraph • Groq • LLMs • Generative AI • Streamlit</b>
-
-</p>
-
-### 📱 Mobile Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts" />
-
-</p>
-
-<p align="center">
-
-<b>React Native • Expo • TypeScript</b>
-
-</p>
-
-### 🔧 Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-
-</p>
+  <!-- Snake Game Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake-dark.svg?v=snake">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake.svg?v=snake">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/output/github-contribution-grid-snake.svg?v=snake" width="90%">
+  </picture>
+</div>
 
 ---
 
-# 🌟 What I Bring To The Table
+### 💡 Engineering Philosophy
 
-| Skill Area            | Experience / Projects                                |
-| --------------------- | ---------------------------------------------------- |
-| 🤖 AI / GenAI         | AI applications, LLM workflows, LangChain, LangGraph |
-| 🧠 AI Agents          | AgentAI Studio and modular AI workflows              |
-| 🐍 Python             | AI applications, automation and web scraping         |
-| 🌐 Web Development    | Portfolio, e-commerce and web projects               |
-| ⚛️ React              | Frontend development and portfolio projects          |
-| 📱 Mobile Development | React Native + Expo applications                     |
-| 💻 Programming        | Python, JavaScript, TypeScript, Java, C, C++         |
-| 🔎 Web Scraping       | Python-based scraping projects                       |
-| 🧩 Open Source        | GitHub projects and Hacktoberfest contributions      |
-| 🧠 DSA                | Algorithms and problem-solving projects              |
+* **Readable > Clever**: Code is read much more often than it is written.
+* **Observable > Silent**: Always include telemetry, logs, and trace bounds for execution paths.
+* **Scalable > Prematurely Optimized**: Benchmark constraints before building premature topologies.
 
 ---
 
-# 📊 GitHub Statistics
+<a name="connect"></a>
+### 🤝 Let's Connect
 
-<p align="center">
+If you'd like to talk about Spring Boot setups, Java performance tuning, vector databases, or backend architectures:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mevsnu&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mevsnu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mevsnu&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mevsnu&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mevsnu&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10"/>
-
-</p>
-
----
-
-# 📚 Open Source & GitHub Journey
-
-I've worked on and explored projects across:
-
-* 🌐 Web Development
-* 🤖 Artificial Intelligence
-* 🧠 Generative AI
-* 📱 Mobile Development
-* 🐍 Python Development
-* 🔎 Web Scraping
-* 💻 DSA & Algorithms
-* 🛍️ E-Commerce Applications
-* 🎨 Portfolio Development
-* 🌱 Open Source Contributions
-
-My GitHub currently contains **34 public repositories**, ranging from web and frontend projects to recent AI/GenAI experiments.
-
----
-
-# 💡 Fun Facts
-
-* 🎓 BTech Student
-* 📍 From Gaya, Bihar
-* 🤖 Fascinated by Artificial Intelligence
-* 🐍 Python enthusiast
-* ⚛️ Love building with React
-* 📱 Exploring React Native
-* 🧠 Learning LLM application development
-* 🚀 Always experimenting with new technologies
-* 🌱 Open to learning, collaboration and open source
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/mevsnu">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+* 📧 Email: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/imrajeevnayan](https://linkedin.com/in/imrajeevnayan)
+* 🌐 Portfolio: [rajeevnayan.in](https://www.rajeevnayan.in/)
 
 ---
 
 <div align="center">
-
-### ⭐ Thanks For Visiting My Profile ⭐
-
-**Building. Learning. Experimenting. Repeating. 🚀**
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Let's+build+something+awesome!;Keep+learning+%F0%9F%9A%80"/>
-
+  <!-- Wave Footer -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" width="100%"/>
 </div>
