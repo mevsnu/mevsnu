@@ -12,7 +12,7 @@ Metadata: {
 <div align="center">
   <!-- Header Grid Asset -->
   <a href="https://www.rajeevnayan.in/">
-    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/profile-grid.svg" alt="Rajeev's Profile Grid" width="100%" />
+    <img src="https://github.com/mevsnu/mevsnu/blob/main/profile-grid.svg" alt="Vishnu's Profile Grid" width="100%" />
   </a>
 
   <h1>Rajeev Nayan</h1>
