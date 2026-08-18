@@ -11,7 +11,7 @@ Metadata: {
 
 <div align="center">
   <!-- Header Grid Asset -->
-  <a href="https://www.rajeevnayan.in/">
+  <a href="https://mevsnu.github.io/portfolio2/">
     <img src="https://github.com/mevsnu/mevsnu/blob/main/profile-grid.svg" alt="Vishnu's Profile Grid" width="100%" />
   </a>
 
