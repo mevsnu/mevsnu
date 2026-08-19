@@ -1,7 +1,7 @@
 <!-- SEO Keywords for Discoverability & Metadata -->
 <!--
 Metadata: {
-  "name": "Rajeev Nayan",
+  "name": "Vishnu Kumar",
   "role": "Java Backend Engineer",
   "specialization": ["Spring Boot", "Microservices", "System Design", "AI Integration"],
   "profiles": ["GitHub", "LinkedIn", "LeetCode", "GeeksforGeeks", "Codolio", "HackerRank"],
@@ -40,30 +40,30 @@ Metadata: {
 
   <!-- Social Badges Row (Consistent style and validated logos) -->
   <p align="center">
-    <a href="https://linkedin.com/in/imrajeevnayan" target="_blank">
+    <a href="https://linkedin.com/in/vsnukr" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:imrajeevnayan@gmail.com">
+    <a href="mailto:vishnukr.0102@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://instagram.com/imrajeevnayan" target="_blank">
+    <a href="https://instagram.com/me.vsnu" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
-    <a href="https://x.com/imrajeevnayan" target="_blank">
+    <a href="https://x.com/me_vsnu" target="_blank">
       <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
     </a>
-    <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
+    <a href="https://leetcode.com/u/VishnuKumr/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
     </a>
-    <a href="https://www.hackerrank.com/profile/imrajeevnayan" target="_blank">
+    <!-- <a href="https://www.hackerrank.com/profile/imrajeevnayan" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-    </a>
-    <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
+    </a> -->
+    <!-- <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
       <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
     </a>
     <a href="https://codolio.com/profile/imrajeevnayan" target="_blank">
       <img src="https://img.shields.io/badge/Codolio-20232A?style=for-the-badge&logoColor=white" alt="Codolio"/>
-    </a>
+    </a> -->
     <a href="https://www.rajeevnayan.in/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-282A36?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
     </a>
