@@ -181,24 +181,16 @@ I build applications with structural patterns in mind to keep them maintainable 
 I practice algorithmic problem solving daily on LeetCode and GeeksforGeeks.
 
 #### 🟡 LeetCode Stats Dashboard (🟡 AUTO-SYNC)
-* **Profile**: [View LeetCode Profile →](https://leetcode.com/u/imrajeevnayan/)
+* **Profile**: [View LeetCode Profile →](https://leetcode.com/u/VishnuKumr/)
 * **Platform Stats**: Dynamically updated stats via API queries:
 <br/>
 <div align="center">
-  <a href="https://leetcode.com/u/imrajeevnayan/" target="_blank">
+  <a href="https://leetcode.com/u/VishnuKumr/" target="_blank">
     <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats/leetcode.svg" alt="LeetCode Dashboard" />
   </a>
 </div>
 
-#### 🟢 GeeksforGeeks Stats Dashboard (🟡 AUTO-SYNC)
-* **Profile**: [View GeeksforGeeks Profile →](https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity)
-* **Platform Stats**: Dynamically parsed GfG profile scores:
-<br/>
-<div align="center">
-  <a href="https://www.geeksforgeeks.org/profile/imrajeevnayan?tab=activity" target="_blank">
-    <img src="https://raw.githubusercontent.com/imrajeevnayan/imrajeevnayan/main/dsa-stats/gfg.svg" alt="GeeksforGeeks Dashboard" />
-  </a>
-</div>
+
 
 #### 🔵 Codolio Stats Dashboard (🟡 AUTO-SYNC)
 * **Profile**: [View Codolio Profile →](https://codolio.com/profile/imrajeevnayan)
@@ -219,12 +211,12 @@ I practice algorithmic problem solving daily on LeetCode and GeeksforGeeks.
   <table align="center" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td align="center" valign="top" style="padding: 5px;">
-        <a href="https://github.com/imrajeevnayan">
+        <a href="https://github.com/mevsnu">
           <img src="https://github-stats-extended.vercel.app/api?username=imrajeevnayan&show_icons=true&theme=dracula&hide_border=true" alt="Rajeev's Github Stats" />
         </a>
       </td>
       <td align="center" valign="top" style="padding: 5px;">
-        <a href="https://github.com/imrajeevnayan">
+        <a href="https://github.com/mevsnu">
           <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=imrajeevnayan&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
         </a>
       </td>
@@ -234,14 +226,14 @@ I practice algorithmic problem solving daily on LeetCode and GeeksforGeeks.
   <br/>
 
   <!-- Streak Stats Card -->
-  <a href="https://github.com/imrajeevnayan">
+  <a href="https://github.com/mevsnu">
     <img src="https://streak-stats.demolab.com/?user=imrajeevnayan&theme=dracula&hide_border=true&background=282a36" alt="Streak Stats" />
   </a>
 
   <br/><br/>
 
   <!-- Trophies Widget -->
-  <a href="https://github.com/imrajeevnayan">
+  <a href="https://github.com/mevsnu">
     <img src="https://github-trophies.devomb.com/?username=imrajeevnayan&theme=dracula&no-frame=true&row=1&column=6" alt="Trophies" />
   </a>
 
@@ -270,9 +262,9 @@ I practice algorithmic problem solving daily on LeetCode and GeeksforGeeks.
 
 If you'd like to talk about Spring Boot setups, Java performance tuning, vector databases, or backend architectures:
 
-* 📧 Email: [imrajeevnayan@gmail.com](mailto:imrajeevnayan@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/imrajeevnayan](https://linkedin.com/in/imrajeevnayan)
-* 🌐 Portfolio: [rajeevnayan.in](https://www.rajeevnayan.in/)
+* 📧 Email: [imrajeevnayan@gmail.com](mailto:vishnukr.0102@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/imrajeevnayan](https://linkedin.com/in/mevsnu)
+* 🌐 Portfolio: [rajeevnayan.in](https://github.com/mevsnu/portfolio2)
 
 ---
 
