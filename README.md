@@ -127,17 +127,11 @@ Integrating LLMs and semantic indexing directly into backend systems. I build Re
 <a name="featured-projects"></a>
 ### 📂 Featured Projects
 
-### 🎬 [BookMyShow](https://github.com/imrajeevnayan/BookMyShow)
-A complete ticket booking system backend engineered to configure seat layouts, list showtimes, and handle high-volume ticket bookings.
-* **Tech**: Java • Spring Boot • Spring Security (JWT) • MySQL • JPA & Hibernate
-* **Engineering**: MVC Architecture • Entity Relationship Design (OneToMany/ManyToOne) • Transaction Boundaries (`@Transactional`) • Secure REST Endpoints
-* **Repository**: [View Project →](https://github.com/imrajeevnayan/BookMyShow)
-
-### 🍕 [Food-Fiesta](https://github.com/imrajeevnayan/Food-Fiesta)
+### 🍕 [Food-Fiesta](https://github.com/mevsnu/Food-Fiesta)
 An online food ordering system backend processing menus, categories, persistent shopping carts, and order status lifecycles.
 * **Tech**: Java • Spring Boot • Hibernate • MySQL • Thymeleaf
 * **Engineering**: Form Validation • Persistent Cart State Management • Asynchronous Lifecycle Updates
-* **Repository**: [View Project →](https://github.com/imrajeevnayan/Food-Fiesta)
+* **Repository**: [View Project →](https://github.com/mevsnu/Food-Fiesta)
 
 ### 🏠 [Rento](https://github.com/imrajeevnayan/Rento)
 Rental listing and application marketplace allowing secure logins for landlords and tenants.
