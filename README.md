@@ -262,9 +262,9 @@ I practice algorithmic problem solving daily on LeetCode and GeeksforGeeks.
 
 If you'd like to talk about Spring Boot setups, Java performance tuning, vector databases, or backend architectures:
 
-* 📧 Email: [imrajeevnayan@gmail.com](mailto:vishnukr.0102@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/imrajeevnayan](https://linkedin.com/in/mevsnu)
-* 🌐 Portfolio: [rajeevnayan.in](https://github.com/mevsnu/portfolio2)
+* 📧 Email: [vishnukr.0102@gmail.com](mailto:vishnukr.0102@gmail.com)
+* 💼 LinkedIn: [linkedin.com/in/vsnukr](https://linkedin.com/in/vsnukr)
+* 🌐 Portfolio: [mevsnu.in](https://github.com/mevsnu/portfolio2)
 
 ---
 
